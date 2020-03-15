@@ -1,0 +1,12 @@
+dogg,David García,20,M,180,90
+dap,Daniel Prieto,20,M,84,12
+djeveler,José Rafael,20,M,132,40
+d&g4ever,Gaby Mejías,20,F,76,37
+rbk,Rebeca Grijalva,50,F,200,26
+garox006,Orlando García,50,M,326,50
+meci,Lionel Messi,32,M,125,40
+cr7,Cristiano Ronaldo,35,M,243,60
+arisurg,Ariana Manriquez,20,F,60,20
+more,Morella González,15,F,40,52
+ff,Fátima Farinhas,22,F,104,17
+desserttester,David Vielma,20,M,4,52
